@@ -19,7 +19,7 @@ class Dog
   end
 
   def print_all
-    self.all.each do |mutt|
+    all.each do |mutt|
       puts mutt
     end
   end
