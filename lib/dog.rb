@@ -7,7 +7,7 @@ class Dog
 
   def initialize(name)
     @name = name.capitalize
-    @@all << self
+    save
   end
 
   def self.clear_all
