@@ -18,3 +18,4 @@ class Dog
     self.all.each do |mutt|
       print mutt
     end
+  end
