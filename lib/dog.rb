@@ -19,4 +19,8 @@ class Dog
       puts mutt
     end
   end
+
+  def self.clear_all
+    @@clear_all
+  end
 end
