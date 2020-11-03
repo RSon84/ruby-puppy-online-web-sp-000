@@ -5,7 +5,7 @@ class Dog
 
   @@all = []
 
-  def initilalize(name)
+  def initialize(name)
     @name = name.capitalize
     @@all << self
   end
