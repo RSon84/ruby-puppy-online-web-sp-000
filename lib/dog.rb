@@ -19,3 +19,4 @@ class Dog
       print mutt
     end
   end
+end
